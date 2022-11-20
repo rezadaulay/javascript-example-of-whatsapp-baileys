@@ -1,0 +1,16 @@
+{
+  "name": "javascript-example-of-whatsapp-baileys",
+  "version": "1.0.0",
+  "description": "Javascript Example of Whatsapp Baileys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
