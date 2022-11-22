@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
+    "jimp": "^0.16.2",
+    "link-preview-js": "^3.0.4",
     "qrcode": "^1.5.0",
     "qrcode-terminal": "^0.12.0"
   }
