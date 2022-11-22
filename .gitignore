@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 /dist
+auth_info_baileys
 
 # local env files
 .env
